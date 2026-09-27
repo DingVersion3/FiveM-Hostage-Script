@@ -64,7 +64,7 @@ Network mutations are rate limited, role checked and validated server-side. Poli
 
 ## UI development
 
-Requires Node 20.19+ or 22.12+. In `web`: `npm ci` then `npm run build`. Production assets are under `web/dist`. No npm installation is required on the game server. All bundled assets are local; no CDN/fonts/web services are required. Third-party notices are in `THIRD_PARTY_NOTICES.txt`.
+Requires Node 20.19+ or 22.12+. In `web`: `npm ci` then `npm run build`. Production assets are under `web/dist`. No npm installation is required on the game server. All bundled assets are local; no CDN/fonts/web services are required.
 
 ## Validation status
 
